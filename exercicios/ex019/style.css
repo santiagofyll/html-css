@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+body{
+    background-color: rgba(133, 255, 127, 0.385);
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    color: rgba(3, 99, 3, 0.709);
+}
+h1#viado{
+    color: darkorange;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    background-color: white;
+}
+h2{
+    color:rgba(21, 247, 21, 0.631) ;
+}
+.basico{
+    background-color: black;
+}
+.intermediario{
+    background-color: blueviolet;
+}
+.avançado{
+    background-color: aquamarine;
+}
